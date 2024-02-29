@@ -1,12 +1,12 @@
 import React from 'react'
-import HeroSection from '../../components/HeroSection.jsx'
-import About from '../../components/About.jsx'
-import Qualities from '../../components/Qualities.jsx'
-import Menu from '../../components/Menu.jsx'
-import WhoAreWe from '../../components/WhoAreWe.jsx'
-import Team from '../../components/Team.jsx'
-import Reservation from '../../components/Reservation.jsx'
-import Footer from '../../components/Footer.jsx'
+import HeroSection from '../../components/HeroSection'
+import About from '../../components/About'
+import Qualities from '../../components/Qualities'
+import Menu from '../../components/Menu'
+import WhoAreWe from '../../components/WhoAreWe'
+import Team from '../../components/Team'
+import Reservation from '../../components/Reservation'
+import Footer from '../../components/Footer'
 
 const Home = () => {
   return (
